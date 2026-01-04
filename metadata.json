@@ -1,0 +1,5 @@
+{
+  "name": "RAG vs MCP Simulator",
+  "description": "A visual comparison animation demonstrating the workflow differences between Retrieval-Augmented Generation (RAG) and Model Context Protocol (MCP).",
+  "requestFramePermissions": []
+}
